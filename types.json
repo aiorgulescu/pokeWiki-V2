@@ -1,0 +1,111 @@
+{
+
+    "normal": {
+        "Icon": "IconImages/normalIcon.png",
+        "Background": "rgba(206, 206, 206, 0.747)",
+        "ImageBackground": "backgroundImages/rockbackground.jpg"
+    },
+
+    "fire": {
+        "Icon": "IconImages/fireIcon.png",
+        "Background": "rgba(199, 14, 14, 0.747)",
+        "ImageBackground": "backgroundImages/firebackground.png"
+    },
+
+    "water": {
+        "Icon": "IconImages/waterIcon.png",
+        "Background": "rgb(67, 67, 233)",
+        "ImageBackground": "backgroundImages/waterbackground.png"
+    },
+
+    "grass": {
+        "Icon": "IconImages/grassIcon.png",
+        "Background": "rgb(17, 128, 17)",
+        "ImageBackground": "backgroundImages/grassbackground.png"
+    },
+
+    "electric": {
+        "Icon": "IconImages/electricIcon.png",
+        "Background": "rgba(224, 224, 36, 0.986)",
+        "ImageBackground": "backgroundImages/electricbackground.jpg"
+    },
+
+    "ice": {
+        "Icon": "IconImages/iceIcon.png",
+        "Background": "rgb(166, 166, 219)",
+        "ImageBackground": "backgroundImages/icebackground.jpg"
+    },
+
+    "fighting": {
+        "Icon": "IconImages/fightingIcon.png",
+        "Background": "rgba(165, 42, 42, 0.829)",
+        "ImageBackground": "backgroundImages/fightingbackground.png"
+    },
+
+    "poison": {
+        "Icon": "IconImages/poisonIcon.png",
+        "Background": "rgb(129, 66, 129)",
+        "ImageBackground": "backgroundImages/psychicbackground.png"
+    },
+
+    "ground": {
+        "Icon": "IconImages/groundIcon.png",
+        "Background": "rgba(165, 42, 42, 0.582)",
+        "ImageBackground": "backgroundImages/groundbackground.png"
+    },
+
+    "flying": {
+        "Icon": "IconImages/flyingIcon.png",
+        "Background": "rgb(219, 217, 217)",
+        "ImageBackground": "backgroundImages/flyingbackground.png"
+    },
+
+    "psychic": {
+        "Icon": "IconImages/poisonIcon.png",
+        "Background": "rgb(129, 66, 129)",
+        "ImageBackground": "backgroundImages/psychicbackground.png"
+    },
+
+    "bug": {
+        "Icon": "IconImages/bugIcon.png",
+        "Background": "rgb(43, 94, 43)",
+        "ImageBackground": "backgroundImages/grassbackground.png"
+    },
+
+    "rock": {
+        "Icon": "IconImages/groundIcon.png",
+        "Background": "rgba(165, 42, 42, 0.582)",
+        "ImageBackground": "backgroundImages/rockbackground.jpg"
+    },
+
+    "ghost": {
+        "Icon": "IconImages/ghostIcon.png",
+        "Background": "rgb(80, 79, 79)",
+        "ImageBackground": "backgroundImages/ghostbackground.png"
+    },
+
+    "dark": {
+        "Icon": "IconImages/darkIcon.png",
+        "Background": "rgb(80, 79, 79)",
+        "ImageBackground": "backgroundImages/ghostbackground.png"
+    },
+
+    "dragon": {
+        "Icon": "IconImages/dragonIcon.png",
+        "Background": "rgb(121, 43, 124)",
+        "ImageBackground": "backgroundImages/dragonbackground.png"
+    },
+
+    "steel": {
+        "Icon": "IconImages/steelIcon.png",
+        "Background": "rgb(160, 158, 158)",
+        "ImageBackground": "backgroundImages/flyingbackground.png"
+    },
+
+    "fairy": {
+        "Icon": "IconImages/fairyIcon.png",
+        "Background": "rgb(194, 93, 194)",
+        "ImageBackground": "backgroundImages/fairybackground.png"
+    }
+
+}
